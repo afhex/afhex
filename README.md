@@ -102,6 +102,7 @@ actualmente: Buscando oportunidades para aplicar mis conocimientos
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![VMware](https://img.shields.io/badge/VMware_Fusion-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/fusion.html)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google-deepmind/antigravity)
 
 ### Automatizacion y Productividad
 
